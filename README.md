@@ -59,9 +59,4 @@ Aplicación móvil desarrollada en Kotlin con Jetpack Compose, enfocada en la cr
 
 Implementar un formulario aplicando principios de ergonomía cognitiva, prevención de errores y accesibilidad universal.
 
-## Notas
-
-No se realizaron pruebas con TalkBack pero en teoria deberia funcionar con .semantics { contentDescription = "Campo $label" } este Le dice a TalkBack como se llama cada campo sin eso el TalkBack diría cosas como “Sin etiqueta”.
-
-Prácticas de desarrollo Android moderno.
 
